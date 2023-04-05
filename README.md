@@ -22,6 +22,10 @@ XML For Click-Through Contracts  https://academic.oup.com/ijlit/article-abstract
 
 ## Other Publications
 
+What can electricity teach us about generative AI? 
+* March, 2023
+* LinkedIn Post: https://www.linkedin.com/posts/dazzagreenwood_people-had-to-be-convinced-of-the-usefulness-activity-7043296241937485825-gsDE/?utm_source=share&utm_medium=member_desktop
+
 Do we really want to sell ourselves? (2018) - https://medium.com/@dazza/do-we-really-want-to-sell-ourselves-4d7e59c24d1 
 
 Legal Issues With Software Agents, [draft 0.9] - Link to article
