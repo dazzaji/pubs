@@ -50,6 +50,12 @@ The Client-Centeredness and Client Autonomy Model: What is the Proper Role of Mo
 
 The Role of the Attorney-Mediator: Professional Ethics and Party Autonomy, Daniel Greenwood, 1994; https://github.com/dazzaji/pubs/blob/main/0_Mediation_Ethics.pdf
 
+Selected Legal Hackathons and Open Design Events:
+
+* Open Music Legal Hackathon: https://youtu.be/DElb5SIixP4
+* MIT Legal Forum Design Challenge: https://youtu.be/-pboxAUgiUA
+
+
 Prior research archives: http://legal-engineering.mit.edu/ and http://web.archive.org/web/20090219085705/http://ecitizen.mit.edu//
 
 
